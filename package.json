@@ -1,0 +1,19 @@
+{
+  "name": "finly.moonica.ir",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test specified\\\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moonica-ir/finly.moonica.ir.git"
+  },
+  "author": "anonymoustafa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/moonica-ir/finly.moonica.ir/issues"
+  },
+  "homepage": "https://github.com/moonica-ir/finly.moonica.ir#readme",
+  "description": ""
+}
